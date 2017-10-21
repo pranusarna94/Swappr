@@ -1,0 +1,36 @@
+{
+  "author" : "Pranu Sarna",
+  "commands" : [
+    {
+      "script" : "swap-position.cocoascript",
+      "shortcut" : "ctrl shift s",
+      "name" : "Swap Layer Positions",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.swappositions"
+    },
+    {
+      "script" : "swap-styles.cocoascript",
+      "shortcut" : "ctrl shift s a",
+      "name" : "Swap Layer Styles",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.swapstyles"
+    }
+  ],
+  "menu" : {
+    "title" : "Swappr",
+    "items" : [
+      "com.bohemiancoding.sketch.swappositions",
+      "com.bohemiancoding.sketch.swapstyles"
+    ]
+  },
+  "identifier" : "com.example.sketch.32ef2129-d0a0-4f5b-ab36-45883ca4c45f",
+  "version" : "1.0",
+  "description" : "Swap layer positions and styles",
+  "authorEmail" : "",
+  "name" : "Swappr",
+  
+}
