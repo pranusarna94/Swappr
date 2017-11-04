@@ -18,7 +18,7 @@
         "run" : "onRun"
       },
       "identifier" : "com.bohemiancoding.sketch.swapstyles"
-    }
+    },
   ],
   "menu" : {
     "title" : "Swappr",
