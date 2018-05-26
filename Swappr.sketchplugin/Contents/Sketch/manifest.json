@@ -18,7 +18,7 @@
         "run" : "onRun"
       },
       "identifier" : "com.bohemiancoding.sketch.swapstyles"
-    },
+    }
   ],
   "menu" : {
     "title" : "Swappr",
@@ -31,6 +31,6 @@
   "version" : "1.0",
   "description" : "Swap layer positions and styles",
   "authorEmail" : "",
-  "name" : "Swappr",
+  "name" : "Swappr"
   
 }
